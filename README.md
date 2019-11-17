@@ -1,2 +1,2 @@
 # Crossplatform
-.gitignore for C++, Android (kotlin,java), Swift, and Objective-c, DART (Flutter)
+.gitignore for C++, Android (kotlin,java), Swift, and Objective-C, DART (Flutter)
